@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Create dxtools.conf file"
 cp dxtools.conf dxtools.conf.${1}
-sed -e "s/10.0.x.10/10.0.${1}.10/g" -i dxtools.conf.${1}
+sed -e "s/10.0.X.10/10.0.${1}.10/g" -i dxtools.conf.${1}
 echo ""
 echo "Sending dxtoolkit tar to 10.0.${1}.30"
 echo ""
