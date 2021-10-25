@@ -11,7 +11,7 @@
 
 ## Dependencies
 
-push_dxtoolkit.sh will ssh to 10.0.X.30 target host 3 times and will prompt for password each time.
+push_dxtoolkit.sh will connect(ssh) to 10.0.X.30 target host 2 times and will prompt for password each time.
 Provide password of delphix user (delphix)
 
 ## Validation
