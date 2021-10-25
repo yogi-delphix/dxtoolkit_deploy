@@ -3,8 +3,8 @@
 ## Instructions
 
 * Login to first lab desktop
-* Download dxtoolkit tar locally in first lab host
-* Download all 3 files(from this repo) in same directory as dxtoolkit tar
+* Download dxtoolkit tar locally in first lab host in /home/delphix.
+* Download all 3 files(from this repo) in same directory as dxtoolkit tar.
 * Provide executable permissions to both shell scripts
 * Update tar file name in shell scripts if it is different. e.g. line#3 in install_dxtoolkit.sh and line#8 in push_dxtoolkit.sh
 * Run "./push_dxtoolkit.sh <lab#>" for each student lab. e.g. "./push_dxtoolkit.sh 1"
