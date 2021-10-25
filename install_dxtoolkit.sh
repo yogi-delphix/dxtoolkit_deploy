@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /home/delphix
-tar -zxf /home/delphix/dxtoolkit2-develop-redhat6-installer.tar.gz
+tar -zxf /home/delphix/dxtoolkit2-v2.4.13-redhat6-installer.tar.gz
 cd /home/delphix/dxtoolkit2
 chmod +x install.sh
 ./install.sh
